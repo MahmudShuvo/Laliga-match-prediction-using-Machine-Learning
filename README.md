@@ -2,7 +2,7 @@
 Project is done all by myself and data pre processsing took a lot of time. 
 This project predicts next la-liga matches from previous results. Machine learning used to predict. Trainning, Testing ratio implemented and some algorithms like KNN, SVM, Naive Bayers used for the prediction.
 Dataset link: https://www.kaggle.com/datasets/kishan305/la-liga-results-19952020
-Colab link of the project : https-colab.research.google.com-drive-1zsHONxipiOZ1yAni9p1acwo4oPlJrA5--fbclid-IwAR2Z2oJvMSeCssMQK
+Colab link of the project : [https-colab.research.google.com-drive-1zsHONxipiOZ1yAni9p1acwo4oPlJrA5--fbclid-IwAR2Z2oJvMSeCssMQK](https://colab.research.google.com/drive/1bS-Y1ppHJvo7asQVS9BjDFv4xrs8i7NS?usp=sharing)
 
 
 
