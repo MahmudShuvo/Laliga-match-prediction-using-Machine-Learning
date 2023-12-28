@@ -1,4 +1,4 @@
-# Laliga-match-prediction-using-Machine-Learning-and-previous-datasets-from-Kaggle
+# Laliga-match-prediction-using-Machine-Learning
 Project is done all by myself and data pre processsing took a lot of time. 
 This project predicts next la-liga matches from previous results. Machine learning used to predict. Trainning, Testing ratio implemented and some algorithms like KNN, SVM, Naive Bayers used for the prediction.
 Dataset link: https://www.kaggle.com/datasets/kishan305/la-liga-results-19952020
